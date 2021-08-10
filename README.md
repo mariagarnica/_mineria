@@ -1,6 +1,6 @@
 # Mineria
 
-##[Fase 1]
+## Fase 1
 
 -[Examen diagnostico](https://github.com/mariagarnica/_mineria/blob/main/Ex-Diagnostico_1851600.pdf)
 
