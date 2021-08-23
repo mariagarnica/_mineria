@@ -10,5 +10,5 @@
 
 -[Ejercicio 1 python](https://github.com/mariagarnica/_mineria/blob/main/Ej_Python_1851600.ipynb)
 
--[Ejemplo Github](https://github.com/mariagarnica/_mineria/blob/main/EJEMPLO.ipynb)
+
 
