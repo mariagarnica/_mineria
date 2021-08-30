@@ -11,3 +11,5 @@
 -[Ejercicio 1 python](https://github.com/mariagarnica/_mineria/blob/main/Ej_Python_1851600.ipynb)
 
 -[Limpieza de datos](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Ej_Limpieza_Equipo2.ipynb)
+
+-[Avance de PIA tentativo](https://colab.research.google.com/drive/1_uGCuFogVtY7ted0Syxlz0XqDkBT1PcK#scrollTo=4nWLbAf2PGHf)
