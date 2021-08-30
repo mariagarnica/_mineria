@@ -12,4 +12,4 @@
 
 -[Limpieza de datos](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Ej_Limpieza_Equipo2.ipynb)
 
--[Avance de PIA tentativo](https://colab.research.google.com/drive/1_uGCuFogVtY7ted0Syxlz0XqDkBT1PcK#scrollTo=4nWLbAf2PGHf)
+-[Avance de PIA ](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Avance1_PIA_Equipo2.ipynb)
