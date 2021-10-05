@@ -14,10 +14,12 @@
 
 -[Avance de PIA ](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Avance1_PIA_Equipo2.ipynb)
 
--[Presentacion por equipo](https://github.com/mariagarnica/_mineria/blob/main/Presentacion_MetricasdeEvaluacion_Equipo2.pdf)
+
 
 
 ## Fase 2
+
+-[Presentacion por equipo](https://github.com/mariagarnica/_mineria/blob/main/Presentacion_MetricasdeEvaluacion_Equipo2.pdf)
 
 -[Avance PIA 2](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/AvancePIA_II_Grupo001_2.ipynb)
 
