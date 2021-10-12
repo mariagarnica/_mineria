@@ -23,6 +23,8 @@
 
 -[Avance PIA 2](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/AvancePIA_II_Grupo001_Equipo2_Corregido.ipynb)
 
+-[Avance PIA 2 corregido](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Tecnicas%20de%20mineria_Equipo2.ipynb)
+
 -[Visualizacion pt1](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2.ipynb)
 
 -[Visualizacion pt2](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2_Parte2.ipynb)
