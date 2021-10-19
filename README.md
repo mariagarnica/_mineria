@@ -28,3 +28,5 @@
 -[Visualizacion pt1](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2.ipynb)
 
 -[Visualizacion pt2](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2_Parte2.ipynb)
+
+-[Notebook](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Notebook_Equipo2.ipynb)
