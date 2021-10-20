@@ -29,4 +29,7 @@
 
 -[Visualizacion pt2](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2_Parte2.ipynb)
 
+
+## Fase 3
+
 -[Notebook](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Notebook_Equipo2.ipynb)
