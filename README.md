@@ -33,3 +33,5 @@
 ## Fase 3
 
 -[Notebook](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Notebook_Equipo2.ipynb)
+
+-[Poster](https://github.com/DayanneVidal/Mineria.de.Datos/blob/main/Poster-Equipo%202.pdf)
